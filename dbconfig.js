@@ -12,6 +12,3 @@ export const config = {
     port:5432,
     ssl: true
 }
-
-
- 
